@@ -1,5 +1,8 @@
-### Hi there 👋
+## Olá 👋✨ 
 
-olá! Bom dia 😄
-sou a Aline e gosto de Friends e do Flash!⚡
-modifiquei o README e criei uma nova_branch. 
+Sou a **Aline** 👩🏻‍💻
+..* Graduanda em Informática para a Internet 🖥
+..* CTISM/UFSM 📚
+Sobre mim:
+..* Gosto de tecnologia e da Natureza 🌻🦋
+..* Fascinada pelo Universo ☄ 
