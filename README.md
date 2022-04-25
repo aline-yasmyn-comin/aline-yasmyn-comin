@@ -1,6 +1,6 @@
 ## Hello 👋
 #### Eu sou a **Aline** 👩🏻‍💻
-#### Gosto de várias coisas:
+#### Sobre minha pessoa:
 
 - 📚 Estudo no CTISM/UFSM 
 - 🎨 Gosto de pixel art  
